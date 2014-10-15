@@ -1,4 +1,2 @@
-coq-monad
-=========
-
+# Monad
 A basic definition of monads.
